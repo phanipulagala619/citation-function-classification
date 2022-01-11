@@ -14,11 +14,10 @@ When dealing with citation function analysis, previous authors have sent the ent
 
 ![Bi-LSTM](https://github.com/phanipulagala619/citation-function-classification/blob/main/bilstm%20architecture.PNG)
 
-## Model Parameters
+## Word embeddings
 
 DeepLearning Framework used - PyTorch
 Word EMbeddings Representations used - ELMo and GloVe(300d)
-
  
 ## Acknowledgements
 
