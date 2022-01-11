@@ -14,6 +14,9 @@ When dealing with citation function analysis, previous authors have sent the ent
 
 ![Bi-LSTM](https://github.com/phanipulagala619/citation-function-classification/blob/main/bilstm%20architecture.PNG)
 
+## Citaation sentence and context example
+![Citation sentence example](https://github.com/phanipulagala619/citation-function-classification/blob/main/citation%20sentence%20and%20context.PNG)
+
 ## Word embeddings
 
 DeepLearning Framework used - PyTorch
