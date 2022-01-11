@@ -19,8 +19,7 @@ When dealing with citation function analysis, previous authors have sent the ent
 
 ## Word embeddings
 
-DeepLearning Framework used - PyTorch
-Word EMbeddings Representations used - ELMo and GloVe(300d)
+DeepLearning Framework used - PyTorch                                                                                                                                      Word EMbeddings Representations used - ELMo and GloVe(300d)
  
 ## Acknowledgements
 
